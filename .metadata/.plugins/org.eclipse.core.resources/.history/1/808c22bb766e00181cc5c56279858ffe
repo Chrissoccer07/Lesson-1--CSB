@@ -1,0 +1,15 @@
+
+public class BigPapi {
+
+	public static void main(String args[]) {
+	
+		System.out.println("Chris");
+		System.out.println("Fireballs");
+		System.out.println("Cool");
+		System.out.println("Smart");
+		System.out.println("Awesome");
+		System.out.println("Funny");
+		System.out.println("The Best");
+		
+	}
+}

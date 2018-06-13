@@ -1,0 +1,10 @@
+
+public class Puppy {
+
+	public Puppy(String name);
+	
+	public int setAge( int age ) {
+	}
+		public int getAge () {
+	}
+}

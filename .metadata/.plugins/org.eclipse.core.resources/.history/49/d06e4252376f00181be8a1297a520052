@@ -1,0 +1,6 @@
+
+public class Samsung {
+	
+	Iphone iphone = new Iphone("better");
+
+}
